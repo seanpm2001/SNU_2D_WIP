@@ -1,0 +1,8 @@
+===================================================================================================================================
+website updates 3.25.2019
+===================================================================================================================================
+translator: image uploads for all text based images
+compose (Dmail): subject, title, tags, file upload (categories: video, image, audio, project, script, document, archive, etc)
+smapshot 2 for dmail about page
+email domain example123@dmail.com
+===================================================================================================================================
